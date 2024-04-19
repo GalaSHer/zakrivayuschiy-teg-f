@@ -79,6 +79,7 @@
 }
 
 .modal-button {
+  inline-size: 100%;
   padding: 7px 0;
   text-transform: uppercase;
 }
